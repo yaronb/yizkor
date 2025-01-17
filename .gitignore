@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+env/  # If you use a virtual environment
+
+# Frontend (adjust based on your framework)
+node_modules/
+dist/
+build/
